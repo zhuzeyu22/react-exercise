@@ -8,6 +8,7 @@
   "dependencies": {
     "@types/node": "^20.10.4",
     "@types/react": "^18.2.45",
+    "@types/react-dom": "^18.2.17",
     "@webpack-cli/generators": "^3.0.7",
     "esbuild-loader": "^4.0.2",
     "mini-css-extract-plugin": "^2.7.6",
